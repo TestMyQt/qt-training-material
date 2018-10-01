@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RCC>
+    <qresource prefix="/">
+        <file>iso-icons/iso_grs_7000_4_0636A.dat</file>
+        <file>iso-icons/iso_grs_7000_4_0647.dat</file>
+        <file>iso-icons/iso_grs_7000_4_0245.dat</file>
+        <file>iso-icons/iso_grs_7000_4_1424.dat</file>
+        <file>iso-icons/iso_grs_7000_4_0635A.dat</file>
+        <file>iso-icons/iso_grs_7000_4_0086.dat</file>
+        <file>iso-icons/iso_grs_7000_4_1174.dat</file>
+        <file>iso-icons/iso_grs_7000_4_0246.dat</file>
+        <file>iso-icons/iso_grs_7000_4_3026.dat</file>
+        <file>iso-icons/iso_grs_7000_4_0248.dat</file>
+        <file>iso-icons/iso_grs_7000_4_2295.dat</file>
+        <file>iso-icons/iso_grs_7000_4_0457.dat</file>
+    </qresource>
+</RCC>

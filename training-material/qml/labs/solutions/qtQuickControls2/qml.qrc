@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>NotificationMessage.qml</file>
+        <file>ImageViewPage.qml</file>
+        <file>MainPage.qml</file>
+        <file>EffectsPage.qml</file>
+        <file>WebViewPage.qml</file>
+        <file>ImageCapturePage.qml</file>
+    </qresource>
+</RCC>

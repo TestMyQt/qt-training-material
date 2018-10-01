@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/gif_with_alpha/vito_gallo.gif</file>
+        <file>images/gif_with_alpha/clarice_the_bear.gif</file>
+        <file>images/gif_with_alpha/leo_rubbernubs.gif</file>
+        <file>images/gif_with_alpha/skinny_louie_bruno.gif</file>
+        <file>images/gif_with_alpha/stefano_the_gun.gif</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/butterfly.png</file>
+        <file>Checkers.qml</file>
+        <file>deployment.pri</file>
+        <file>effect_BrightnessContrast.qml</file>
+        <file>effect_Colorize.qml</file>
+        <file>effect_CustomDissolve.qml</file>
+        <file>effect_CustomWave.qml</file>
+        <file>effect_Displacement.qml</file>
+        <file>effect_DropShadow.qml</file>
+        <file>effect_GaussianBlur.qml</file>
+        <file>effect_Glow.qml</file>
+        <file>effect_HueSaturation.qml</file>
+        <file>effect_OpacityMask.qml</file>
+        <file>effect_ThresholdMask.qml</file>
+        <file>images/bug.jpg</file>
+        <file>images/fog.png</file>
+        <file>images/glass_normal.png</file>
+    </qresource>
+</RCC>

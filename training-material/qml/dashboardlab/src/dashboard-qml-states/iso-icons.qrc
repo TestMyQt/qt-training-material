@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RCC>
+    <qresource prefix="/">
+        <file>iso-icons/iso_grs_7000_4_1424.dat</file>
+        <file>iso-icons/iso_grs_7000_4_0647.dat</file>
+        <file>iso-icons/iso_grs_7000_4_0636A.dat</file>
+        <file>iso-icons/iso_grs_7000_4_1174.dat</file>
+        <file>iso-icons/iso_grs_7000_4_0635A.dat</file>
+    </qresource>
+</RCC>
